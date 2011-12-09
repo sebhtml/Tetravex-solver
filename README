@@ -1,0 +1,12 @@
+Tetravex solver
+
+file format:
+
+ width height
+
+ left top right bottom
+ left top right bottom
+ left top right bottom
+ left top right bottom
+...
+
